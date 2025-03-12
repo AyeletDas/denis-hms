@@ -13,14 +13,9 @@ This project was built with MongoDB & Node.js & React. It implements user regist
 
 ### Backend Setup:
 
-1. Clone the repository
-2. Navigate to the server directory: `cd server`
-3. Install dependencies: `npm install`
-4. Set up MySQL database:
-   - Create a database named `userdb`
-   - Update database configuration in `config/database.js`
-5. Run migrations: `npm run migrate`
-6. Start the server: `npm start`
+1. Navigate to the server directory: `cd server`
+2. Install dependencies: `npm install`
+Running the server: $ nodemon index.js
 
 ###   Frontend   ### 
 - React
