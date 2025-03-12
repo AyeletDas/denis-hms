@@ -1,0 +1,30 @@
+/*
+
+Postman check!
+
+POST - http://localhost:4000/api/users/register
+
+Body:
+{
+  "email": "example@example.com",
+  "firstname": "John",
+  "lastname": "Doe",
+  "password": "password123"
+}
+
+POST - http://localhost:4000/api/users/login
+
+Body:
+
+{ 
+  "email": "example@example.com",
+  "password": "password123" 
+}
+
+
+Get - http://localhost:4000/api/users
+
+Headers-
+Authorization: Bearer <הטוקן שקיבלתי>
+
+*/

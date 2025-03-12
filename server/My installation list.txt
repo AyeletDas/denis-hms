@@ -1,0 +1,13 @@
+// $ npm init -y 
+// $ npm i
+// $ npm i --force
+// $ npm i express
+// $ npm i cors
+// $ npm i mongoose
+// $ npm install dotenv
+// $  node main.js --->  $ nodemon index.js
+// $   npm install jsonwebtoken
+// $   npm i bcrypt
+
+Running the server:
+$ nodemon index.js
